@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.0\bin\x86_64-win64\fpc.exe" Date="1080970850"/>
+  <Params Value=" -MObjFPC -Scghi -CirotR -g -gl -vewnhi -l &quot;-FiC:\Users\Admin\Desktop\Uni\DV II\Projekt\Antriebsvergleich v0.4 - Kopie\lib\x86_64-win64&quot; &quot;-FuC:\Users\Admin\Desktop\Uni\DV II\Projekt\Antriebsvergleich v0.4 - Kopie\&quot; -Fu. &quot;-FUC:\Users\Admin\Desktop\Uni\DV II\Projekt\Antriebsvergleich v0.4 - Kopie\lib\x86_64-win64\&quot; -oAntriebsvergleich.exe Antriebsvergleich.lpr"/>
+</CONFIG>
